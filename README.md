@@ -1,1 +1,1 @@
-# Python_PT
+This folder contains all files from placement training# Python_PT
